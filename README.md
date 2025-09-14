@@ -81,7 +81,13 @@ Recommendations included for optimization based on spend and ROAS.
 
 ---
 
-### 4️⃣ Add dataset info
+### 4️⃣ <img width="1915" height="915" alt="Screenshot 2025-09-14 112539" src="https://github.com/user-attachments/assets/33a5a06f-0f72-44bb-b791-5ecd5e276dd2" />
+<img width="1918" height="899" alt="Screenshot 2025-09-14 112626" src="https://github.com/user-attachments/assets/99795413-6756-45f1-94c5-2f0d2a55a72d" />
+<img width="1898" height="890" alt="Screenshot 2025-09-14 112618" src="https://github.com/user-attachments/assets/83011b73-b1b1-40b3-9eb8-22c7080a0932" />
+<img width="1899" height="900" alt="Screenshot 2025-09-14 112605" src="https://github.com/user-attachments/assets/d6bfefc0-046a-4f8b-90c8-97c7031353c1" />
+<img width="1904" height="896" alt="Screenshot 2025-09-14 112553" src="https://github.com/user-attachments/assets/a0a7a393-8aef-49e3-a80f-284b8826a3ba" />
+<img width="1915" height="915" alt="Screenshot 2025-09-14 112539" src="https://github.com/user-attachments/assets/d6fb0cd3-1fee-4e69-9beb-37fb8d7b8d39" />
+dataset info
 ```markdown
 The data folder contains CSV files with campaign metrics:
 
