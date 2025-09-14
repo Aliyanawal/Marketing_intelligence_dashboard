@@ -88,7 +88,7 @@ Recommendations included for optimization based on spend and ROAS.
 <img width="1904" height="896" alt="Screenshot 2025-09-14 112553" src="https://github.com/user-attachments/assets/a0a7a393-8aef-49e3-a80f-284b8826a3ba" />
 <img width="1915" height="915" alt="Screenshot 2025-09-14 112539" src="https://github.com/user-attachments/assets/d6fb0cd3-1fee-4e69-9beb-37fb8d7b8d39" />
 dataset info
-```markdown
+
 The data folder contains CSV files with campaign metrics:
 
 
