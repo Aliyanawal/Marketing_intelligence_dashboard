@@ -109,7 +109,7 @@ These contain campaign metrics such as impressions, clicks, spend, attributed re
 
 ## Hosted Dashboard
 
-You can view the live dashboard here: [LifeSight Dashboard](YOUR_STREAMLIT_DEPLOY_URL)
+You can view the live dashboard here: [LifeSight Dashboard](https://github.com/Aliyanawal/Marketing_intelligence_dashboard)
 
 
 
